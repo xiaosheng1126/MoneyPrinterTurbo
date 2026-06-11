@@ -104,7 +104,7 @@
 ### التشغيل في Google Colab
 تريد تجربة MoneyPrinterTurbo دون إعداد بيئة محلية؟ شغّله مباشرةً في Google Colab!
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harry0703/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xiaosheng1126/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
 
 
 ### Windows
