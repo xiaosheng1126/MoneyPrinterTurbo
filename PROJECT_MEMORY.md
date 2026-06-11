@@ -246,4 +246,3 @@ uv run python -m unittest test.services.test_task
 - 完整生成依赖外部 LLM、TTS、素材服务及 FFmpeg，网络和配额均可能导致任务失败。
 - Whisper 首次使用可能需要下载较大的模型文件。
 - 自动发布属于外部写操作，必须保持默认关闭并由用户明确配置。
-
